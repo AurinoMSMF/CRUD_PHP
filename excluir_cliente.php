@@ -22,7 +22,15 @@ if(isset($_POST['confirmado'])){
     <link rel="stylesheet" href="style/style.css">
 
 </head>
+
 <body>
+
+        <header>
+            <ul>
+                <li><a id="homeBtn" href="index.html"><button>Página inicial</button></a></li>
+            </ul>
+        </header>
+
     <div class="block-excluir">
         <div class="grid-container1-excluir">
             <h2>EXCLUIR CADASTRO</h2>

@@ -67,7 +67,15 @@ $cliente = $query_cliente->fetch_assoc();
     <link rel="stylesheet" href="style/style.css">
 
 </head>
+
 <body>
+
+        <header>
+            <ul>
+                <li><a id="homeBtn" href="index.html"><button>Página inicial</button></a></li>
+            </ul>
+        </header>
+
     <div class="block">
         <div class="grid-container1">
             <h2>ALTERAÇÃO</h2>

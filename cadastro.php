@@ -65,6 +65,13 @@ if(count($_POST) > 0){
 </head>
 
 <body>
+
+        <header>
+            <ul>
+                <li><a id="homeBtn" href="index.html"><button>Página inicial</button></a></li>
+            </ul>
+        </header>
+
     <div class="block">
         <div class="grid-container1">
             <h2>CADASTRO</h2>

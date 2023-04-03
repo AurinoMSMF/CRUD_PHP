@@ -15,12 +15,20 @@
     <title>Lista de clientes</title>
     <link rel="stylesheet" href="style/style.css">
 </head>
+
 <body>
+
+        <header>
+            <ul>
+                <li><a id="homeBtn" href="index.html"><button>Página inicial</button></a></li>
+            </ul>
+        </header>
+
     <h2>Lista de clientes</h2>
     
     <h4>Estes são os clientes cadastrados:</h4>
 
-    <table cellpadding="10">
+    <table cellpadding="15">
         <thead>
             <th>ID</th>
             <th>Nome</th>
