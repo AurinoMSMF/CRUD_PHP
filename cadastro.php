@@ -53,7 +53,9 @@ if(count($_POST) > 0){
 ?>
 
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -61,16 +63,7 @@ if(count($_POST) > 0){
     <title>Cadastro</title>
     <link rel="stylesheet" href="style/style.css">
 </head>
-<header>
 
-    <ul style="">
-        <li><a class="active" href="#home">Home</a></li>
-        <li><a href="cadastro.php">Cadastro</a></li>
-        <li><a href="listaClientes.php">Lista de clientes</a></li>
-        <li><a href="#about">About</a></li>
-    </ul>
-
-</header>
 <body>
     <div class="block">
         <div class="grid-container1">
