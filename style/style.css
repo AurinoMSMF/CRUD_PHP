@@ -1,0 +1,129 @@
+
+body{
+    background-image: url(../images/mountains-1412683.png);
+    text-align: center;
+    margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.block{
+    border: 5px solid;
+    border-radius: 50px;
+    border-color: rgba(255, 255, 255, 0.473);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    width: 500px;
+    height: 500px;
+}
+
+.block-excluir{
+    border: 5px solid;
+    border-radius: 50px;
+    border-color: rgba(255, 255, 255, 0.473);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    width: 500px;
+    height: 200px;
+}
+
+.grid-container1-excluir{
+    border: 5px solid;
+    border-radius: 50px;
+    border-color: rgba(255, 255, 255, 0.473);
+    display: grid;
+    width: 300px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    align-content: center;
+}
+
+.grid-container1{
+    border: 5px solid;
+    border-radius: 50px;
+    border-color: rgba(255, 255, 255, 0.473);
+    display: grid;
+    width: 300px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    align-content: center;
+}
+
+
+.grid-container{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+    display: block;
+    border: 5px solid;
+    border-radius: 45px;
+    border-color:rgba(255, 255, 255, 0.473);
+    width: 400px;
+    height: 400px;
+}
+
+.grid-container-excluir{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    border: 5px solid;
+    border-radius: 45px;
+    border-color: rgba(255, 255, 255, 0.473);
+    width: 400px;
+    height: 75px;
+}
+
+table{
+    margin-left: auto; 
+    margin-right: auto; 
+    border: 5px solid;
+    border-radius: 50px;
+    border-color: rgba(255, 255, 255, 0.473);
+    padding: 10px;
+}
+
+h2,h4,th,tr{
+    font-weight: lighter; 
+    color: rgb(0, 0, 0);
+}
+
+label{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+input{
+    text-align: center;
+    width: 375px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+button{
+    justify-self: center;
+    margin-top: 5px;
+    border-radius: 15px;
+    width: 125px;
+    height: 50px;
+}
+
+.internButton{
+    justify-self: center;
+    margin-top: 5px;
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+}
